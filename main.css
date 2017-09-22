@@ -1,0 +1,43 @@
+table{
+    
+    border-spacing: 30px;
+    outline: 1px solid black;
+}
+
+th, tr{
+    
+    padding: 15px;
+    border: 1px solid black;
+    
+}
+
+input#test{
+    
+    outline: 1px solid black;
+    text-align: center;
+    
+}
+
+input#submit{
+    
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    width: 20%;
+    font-size: 100%
+    
+}
+
+input#submit:hover{
+    
+    background-color: white;
+    color: brown;
+    border-radius: 10px;
+    
+    
+}
+h3 {
+    
+    text-decoration: underline;
+    
+}
