@@ -20,8 +20,8 @@ input.test{
 
 input#submit{
     
-    background-color: brown;
-    color: white;
+    background-color: #AF7C39;
+    color: #DEB77F;
     border-radius: 10px;
     width: 20%;
     font-size: 100%
@@ -30,8 +30,8 @@ input#submit{
 
 input#submit:hover{
     
-    background-color: white;
-    color: brown;
+    background-color: #DEB77F;
+    color: #AF7C39;
     border-radius: 10px;
     
     
